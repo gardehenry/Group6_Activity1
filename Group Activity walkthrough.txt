@@ -1,0 +1,98 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+*          GROUP6'S STUDENT GRADING SYSTEM        *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+*            A | ADD STUDENT INFO                 *
+*            B | COMPUTE STUDENT AVERAGE          *
+*            C | DISPLAY STUDENT INFO             *
+*            D | EXIT                             *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+* Hello there! How can I help? --> Z              *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+* Sorry, that is not in the options...            * 
+* Let's try again, how can I help? --> B          *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+* Sorry, I don't have your information yet.       *
+* To input your student info, type A --> A        *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+* A | ADD STUDENT INFO                            *
+* STUDENT NAME:                                   *
+* Please enter your first name: Henry             *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+* Please enter your middle initial:               *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+* Please enter your last name: Garde              *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+* Please enter your suffix: II                    *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+* Great! Nice to meet you Henry Garde II!         *
+* What's your student ID? 2006-00123              *
+* Thanks Henry! Save complete!                    *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+* SUBJECT:                                        *
+* How many subjects do you have? 3                *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+* What's your Subject 1? English                  *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+* Your grade in [English]? 99                     *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+* What's your Subject 2? Engrish                  *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+* Your grade in [Engrish]? 96                     *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+* What's your Subject 3? Not English              *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+* Your grade in [Not English]? 90                 *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+* Thanks Henry! Save complete!                    *
+* Returning to the main menu                      *
+*          GROUP6'S STUDENT GRADING SYSTEM        *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+*            A | UPDATE STUDENT INFO              *
+*            B | COMPUTE STUDENT AVERAGE          *
+*            C | DISPLAY STUDENT INFO             *
+*            D | EXIT                             *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+* Hello Henry! How can I help? --> B              *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+* COMPUTE AVERAGE                                 *
+* You have 3 Subjects                             *
+* Your average grade is 95.0                      *
+* You PASSED! Congratulations!                    *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+* Returning to the main menu                      *
+*          GROUP6'S STUDENT GRADING SYSTEM        *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+*            A | UPDATE STUDENT INFO              *
+*            B | COMPUTE STUDENT AVERAGE          *
+*            C | DISPLAY STUDENT INFO             *
+*            D | EXIT                             *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+* Hello Henry! How can I help? --> C              *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+* STUDENT INFORMATION                             *
+* NAME: Henry Garde II                            *
+* ID: 2006-00123                                  *
+* AVERAGE GRADE: 95.0                             *
+* STATUS: Pass!                                   *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+* Returning to the main menu                      *
+*          GROUP6'S STUDENT GRADING SYSTEM        *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+*            A | UPDATE STUDENT INFO              *
+*            B | COMPUTE STUDENT AVERAGE          *
+*            C | DISPLAY STUDENT INFO             *
+*            D | EXIT                             *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+* Hello Henry! How can I help? --> D              *
+* Removing temporary information in the system... *
+* Thank you, see you again soon!                  *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+-- end of program
+
+
+
+
+
+
+
